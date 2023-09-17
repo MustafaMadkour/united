@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "481120990020",
+    "project_id": "fleet-8d5ab",
+    "storage_bucket": "fleet-8d5ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481120990020:android:8badf145bcc86cf8409d11",
+        "android_client_info": {
+          "package_name": "com.example.fleetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481120990020-st840ridogtsnfigdtcap98eeor9338e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkKBbmfSf03gYYxcsqrvsUBI30073r-uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481120990020-st840ridogtsnfigdtcap98eeor9338e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481120990020-7980mjsn3v3p97e9n1cnv5lk2ug3m0jv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.unitedfleet.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481120990020:android:7e56737ebd1ea7c9409d11",
+        "android_client_info": {
+          "package_name": "com.example.united"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481120990020-st840ridogtsnfigdtcap98eeor9338e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkKBbmfSf03gYYxcsqrvsUBI30073r-uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481120990020-st840ridogtsnfigdtcap98eeor9338e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481120990020-7980mjsn3v3p97e9n1cnv5lk2ug3m0jv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.unitedfleet.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
